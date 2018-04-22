@@ -1,0 +1,32 @@
+caixa {
+  padding:2%;
+  height:10px;
+  width:1000px;
+  background-color:grey;
+  float: left;
+}
+nav {
+  padding:2%;
+  height:10px;
+  background-color:grey;
+}
+header {
+  padding: 2%;
+  height:40px;
+  background-color:blue;
+}
+aside {
+  padding: 2%;
+  height:250px;
+  width:25%;
+  background-color:yellow;
+  float: left;
+  margin-left:30px;
+}
+footer {
+  padding:2%;
+  height:5px;
+  background-color:purple;
+  clear:both;
+  margin-top:0 auto;
+}

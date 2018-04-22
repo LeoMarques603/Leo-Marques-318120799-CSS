@@ -1,0 +1,25 @@
+footer {
+  padding:2%;
+  height:10px;
+  background-color:grey;
+  clear:both;
+}
+aside {
+  padding:4%;
+  width:100px;
+  height:400px;
+  float:left;
+  background-color:white;
+}
+header {
+  padding:2%;
+  height:100px;
+  width:80%;
+  background-color:blue;
+  float:left;
+}
+main {
+  padding:2%;
+  height:400px;
+  background-color:red;
+}
